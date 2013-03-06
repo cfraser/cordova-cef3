@@ -1,4 +1,4 @@
 cordova-cef3
 ============
 
-A CEF3 implementation of Cordova
+An evolving CEF3 implementation of Cordova. Stay tuned!
